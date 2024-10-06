@@ -1,3 +1,5 @@
+# Verifica Par ou Ímpar
+
 n = int(input('Digite um número: '))
 
 if n % 2 == 0:
